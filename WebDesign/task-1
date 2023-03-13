@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Al-Minshawi</title>
+        <meta name="description" content="This Is Description For My First Page"/>
+        
+    </head>
+    <body>
+        <img src="Elminshwey.jpg">
+        <h1>المصحف المرتل للقاريء محمد صديق المنشاوي</h1><br>
+        <div>
+            <h3>سورة الفاتحة</h3> <br>
+            <audio controls autoplay width="1000" height="500">
+                <source src="المنشاوي/001.mp3">
+            </audio>
+        </div>
+        <h2>جزء عم</h2>
+        <div>
+            <h3>سورة النبأ</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/078.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة النازعات</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/079.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة عبس</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/080.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة التكوير</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/081.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الانفطار</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/082.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة المطففين</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/083.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الانشقاق</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/084.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة البروج</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/085.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الطارق</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/086.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الأعلى</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/087.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الغاشية</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/088.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورةالفجر</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/089.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة البلد</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/090.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورةالشمس</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/091.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الليل</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/092.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورةالضحى</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/093.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورةالشرح</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/094.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة التين</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/095.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة العلق</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/096.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة القدر</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/097.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورةالبينة</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/098.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الزلزلة</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/099.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة العاديات</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/100.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورةالقارعة</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/101.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة التكاثر</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/102.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورةالعصر</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/103.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الهمزة</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/104.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الفيل</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/105.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة قريش</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/106.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الماعون</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/107.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الكوثر</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/108.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورةالكافرون</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/109.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة النصر</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/110.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة المسد</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/111.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الإخلاص</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/112.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الفلق</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/113.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+        <div>
+            <h3>سورة الناس</h3> <br>
+            <audio controls width="1000" height="500">
+                <source src="المنشاوي/114.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+    </body>
+</html>
